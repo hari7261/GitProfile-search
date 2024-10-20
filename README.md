@@ -1,7 +1,3 @@
-Here's a **futuristic** and **engaging** README for your GitHub Profile Finder project, complete with emojis, icons, and a clean layout:
-
----
-
 # 🚀 GitHub Profile Finder 🔍
 
 Welcome to **GitHub Profile Finder**, a simple yet powerful desktop application built with **Python** and **Tkinter** to quickly search and retrieve any GitHub user's profile details. This app is designed with a modern and sleek user interface using **CustomTkinter** and can be used to explore GitHub user profiles in style.✨
